@@ -44,9 +44,9 @@ Showcase the system's features, such as device control, responsiveness, and ener
 Document the project details, including system design, implementation steps, and challenges faced.
 Analyze the performance and identify areas for future improvement or scaling the system.
 
-CIRCUIT DIAGRAM OF THE PROJECT:
+CIRCUIT DIAGRAM OF THE PROJECT:https://github.com/koppisettithanushmashivani/CODTECH-TASK2-AUTOMATION-WITH-BLUETOOTH/commit/6f0e4345f1103fbd29b0e4ae1f72682a81e65868
 
-BLOCK DIAGRAM OF THE PROJECT:
+BLOCK DIAGRAM OF THE PROJECT:https://github.com/koppisettithanushmashivani/CODTECH-TASK2-AUTOMATION-WITH-BLUETOOTH/commit/0072701e51b4f557655f9d1d18d3e49e2c370e04
 
 SOURCE CODE OF THE PROJECT:
 #include <LiquidCrystal.h>
@@ -237,4 +237,4 @@ WORKING:
 CONCLUSION:
   In conclusion, the Bluetooth-controlled home automation system effectively demonstrates how modern technology can enhance convenience, efficiency, and control in managing household devices. By utilizing Bluetooth technology, the system provides a cost-effective and user-friendly solution for wirelessly switching devices on and off, eliminating the need for complex installations or internet connectivity. This project serves as a practical and scalable step toward creating smart homes, making everyday tasks easier while promoting energy conservation. The successful implementation of this system highlights the potential of integrating technology into daily life to improve comfort and quality, paving the way for more advanced home automation innovations in the future.
 
-OUTPUT OF THE PROJECT:
+OUTPUT OF THE PROJECT:https://github.com/koppisettithanushmashivani/CODTECH-TASK2-AUTOMATION-WITH-BLUETOOTH/commit/6d28aabe978c4fe781822f4cdcd174ad57d7b24a
